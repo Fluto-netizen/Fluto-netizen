@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul-Guroo(Flutter Developer) .
+- 👋 Hi, I’m a (Flutter Developer) .
 - 👀 I’m interested in Web Development , Freelancing .
 - 🌱 I’m currently learning DSA and Backend.
 - 💞️ I’m looking to collaborate on AI Applications .
