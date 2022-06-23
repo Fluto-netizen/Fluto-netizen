@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fluto Lover</h1>
-<h3 align="center">I’m a (Flutter Developer) . 👀 I’m interested in Web Development , Freelancing . 🌱 I’m currently learning DSA and Backend. 💞️ I’m looking to collaborate on AI Applications . I'm a CSE Undergraduate Student at NIT Jaipur (MNIT) .</h3>
+<h3 align="center">I’m a (Flutter Developer) .
+  I’m interested in Web Development , Freelancing . 
+  I’m currently learning DSA and Backend.
+  I’m looking to collaborate on AI Applications . 
+  I'm a CSE Undergraduate Student at NIT Jaipur (MNIT) .</h3>
 
 - 🔭 I’m currently working on **Flutter App Development **
 
