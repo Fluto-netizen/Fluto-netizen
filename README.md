@@ -1,5 +1,5 @@
-<h1  align="center">  <img src="https://camo.githubusercontent.com/882324f85a27edea6f08e9a415d00e5110909697b338ee61d3fe53606b919e76/68747470733a2f2f696d6775722e636f6d2f54467a467633442e676966" width="50"> Hello World !  </h1> 
-<h1  align="center"> <img src="https://user-images.githubusercontent.com/89357402/176206087-ad5a9d5a-be7d-4c7d-8f40-790a2cd0e3fc.gif" width="50"> Hola , I'm Rahul Guroo !  </h1> <h1 <br> 💫 About Me: <br> </h1>
+<h1  align="center">  <img src="https://camo.githubusercontent.com/882324f85a27edea6f08e9a415d00e5110909697b338ee61d3fe53606b919e76/68747470733a2f2f696d6775722e636f6d2f54467a467633442e676966" width="40">     Hello World   </h1> 
+<h1  align="center"> <img src="https://user-images.githubusercontent.com/89357402/176206087-ad5a9d5a-be7d-4c7d-8f40-790a2cd0e3fc.gif" width="40"> Hola , I'm Rahul Guroo   </h1> <h1 <br> 💫 About Me: <br> </h1>
 
 🔭 I’m currently working on Flutter Development .<br>👯 I’m looking to collaborate on AI Application .<br>🤝 I’m looking for Freelancing Projects .<br>🌱 I’m currently learning DSA and Backend Web Development .<br>💬 Ask me about : Dart , APIs , FireBase , VelocityX Documentation .<br>⚡ Fun fact : I Spend almost 4 Hours listening to songs everyday 😁 .
 
@@ -14,3 +14,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
