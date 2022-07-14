@@ -1,6 +1,5 @@
-
 <h1  align="center">
-<img src="https://user-images.githubusercontent.com/89357402/179109893-5f1488f8-b041-43d8-bc91-068349b8e459.gif" alt=""> <br> </br> 
+<img src="https://user-images.githubusercontent.com/89357402/179116413-63895220-b828-4d98-a7bf-c663e8b84c67.gif" alt=""> <br> </br> 
 <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="180"><br><img src="https://user-images.githubusercontent.com/89357402/176206087-ad5a9d5a-be7d-4c7d-8f40-790a2cd0e3fc.gif" width="40">
  Hola , I'm Rahul Guroo  </h1> 
  <h1 <br> 💫 About Me: <br> </h1>
