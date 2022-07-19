@@ -4,7 +4,7 @@
  Hola , I'm Rahul Guroo  </h1> 
  <h1 <br> 💫 About Me: <br> </h1>
 
-🔭 I’m currently working on Flutter Development .<br>👯 I’m looking to collaborate on AI Application .<br>🤝 I’m looking for Freelancing Projects .<br>🌱 I’m currently learning DSA and Backend Web Development .<br>💬 Ask me about : Dart , APIs , FireBase , VelocityX Documentation .<br>⚡ Fun fact : Typing speed of 70 WPM and I Spend almost 4 Hours listening to songs everyday 😁 .
+🔭 I’m currently working on Flutter Development .<br>👯 I’m looking to collaborate on AI Application .<br>🤝 I’m looking for Freelancing Projects .<br>🌱 I’m currently learning DSA and Backend Web Development .<br>💬 Ask me about : Dart , APIs , FireBase , VelocityX Documentation .<br>⚡ Fun fact : Typing speed of 75 WPM and I Spend almost 4 Hours listening to songs everyday 😁 .
 
 
 ## 🌐 Socials:
